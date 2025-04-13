@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/XIAOQIUNI/XIAOQIUNI/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/XIAOQIUNI/XIAOQIUNI/blob/output/github-contribution-grid-snake.svg)
 ![]([https://raw.githubusercontent.com/XIAOQIUNI/XIAOQIUNI/main/assets/github-contribution-grid-snake.svg](https://github.com/XIAOQIUNI/XIAOQIUNI/blob/output/github-contribution-grid-snake.svg))
+https://github.com/XIAOQIUNI/XIAOQIUNI/blob/output/github-contribution-grid-snake.svg
